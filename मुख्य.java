@@ -1,7 +1,7 @@
 public class मुख्य {
   public static void main(String[] args) {
     System.out.println("शुरू मुख्य तरीका ");
-    String नाम = "सचिन";
+    String नाम = "राहुल";
     दस्तावेज़ दस्तावेज़ = new दस्तावेज़(नाम);
     System.out.println(दस्तावेज़.प्रतिलिपि());
   }
