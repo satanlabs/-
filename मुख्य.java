@@ -8,7 +8,7 @@ public class मुख्य {
 }
 
 class दस्तावेज़ {
-  public String नाम;
+  private String नाम;
 
   public दस्तावेज़(String नाम) {
     this.नाम = नाम;
